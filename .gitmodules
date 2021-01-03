@@ -1,0 +1,6 @@
+[submodule "packages/backend"]
+	path = packages/backend
+	url = ./packages/backend/
+[submodule "packages/frontend"]
+	path = packages/frontend
+	url = ./packages/frontend/
