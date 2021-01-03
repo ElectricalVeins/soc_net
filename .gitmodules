@@ -1,6 +1,6 @@
 [submodule "packages/backend"]
 	path = packages/backend
-	url = ./packages/backend/
+	url = https://github.com/ElectricalVeins/soc_net_back.git
 [submodule "packages/frontend"]
 	path = packages/frontend
-	url = ./packages/frontend/
+	url = https://github.com/ElectricalVeins/soc_net_front.git
